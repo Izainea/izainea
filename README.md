@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on TDA, NLP and Data Visulization in Universidad Externado de Colombia and Universidad Central.
 <!--
 **Izainea/izainea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
